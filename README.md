@@ -14,7 +14,7 @@
 | 7   | push_swap	                          |  2	 |	 ✅   |   | 23  | NetPractice      |  4   |  🔒    |
 | 8   | exam rank 02							          |  2   |   ✅   |   | 24  | exam rank 04     |  4   |  🔒    |
 | 10  | minishell			 					            |  3	 |   ✅   |   | 25  | ft_containers    |  5   |  🔒    |
-| 11  | Philosophers                        |  3   |   ✅   |   | 26A | ft_irc           |  5   |  🔒    |
+| 11  | [Philosophers](../../../Philosophers)                        |  3   |   ✅   |   | 26A | ft_irc           |  5   |  🔒    |
 | 12  | exam rank 03                        |  3   |   🔒   |   | 26B | webserv          |  5   |  🔒    |
 | 13A | cub3d 	 	                          |  4   |   🔒   |   | 27  | Inception        |  5   |  🔒    |
 | 14  | CPP Module 00                       |  4   |   🔒   |   | 28  | exam rank 05     |  5   |  🔒    |
