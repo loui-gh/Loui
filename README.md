@@ -12,7 +12,7 @@
 | 5C  | [so_long](https://github.com/loui-gh/so_long)								              |  2	 |   ✅   |   | 21  | CPP Module 07    |  4   |  🔒    | 
 | 6B  | [pipex](https://github.com/loui-gh/pipex)      							            |  2	 |   ✅   |   | 22  | CPP Module 08    |  4   |  🔒    |
 | 7   | [push_swap](https://github.com/loui-gh/push-swap)	                          |  2	 |	 ✅   |   | 23  | NetPractice      |  4   |  🔒    |
-| 8   | exam rank 02							          |  2   |   ✅   |   | 24  | exam rank 04     |  4   |  🔒    |
+| 8   | [exam rank 02](https://github.com/loui-gh/exam02/blob/main/README.md)							          |  2   |   ✅   |   | 24  | exam rank 04     |  4   |  🔒    |
 | 10  | [minishell](https://github.com/loui-gh/42minishell)			 					            |  3	 |   ✅   |   | 25  | ft_containers    |  5   |  🔒    |
 | 11  | [Philosophers](https://github.com/loui-gh/Philosophers)                        |  3   |   ✅   |   | 26A | ft_irc           |  5   |  🔒    |
 | 12  | exam rank 03                        |  3   |   🔒   |   | 26B | webserv          |  5   |  🔒    |
