@@ -5,15 +5,15 @@
 ## 42cursus Progress
 | No  | Project                             | Rank | Status |   | No  | Project          | Rank | Status |
 | :-: | :---------------------------------  |:--:  | :----: | - | :-: | :--------------- | :--: |:----:  |
-| 1   | [Libft](../../../42_libft)          |  0   |   ✅   |   | 17  | CPP Module 03    |  4   |  🔒    |
+| 1   | [Libft](https://github.com/loui-gh/libft)         |  0   |   ✅   |   | 17  | CPP Module 03    |  4   |  🔒    |
 | 2   | Born2beroot								          |  1   |   ✅   |   | 18  | CPP Module 04    |  4   |  🔒    |
-| 3   | [ft_printf](../../../42_ft_printf)  |  1   |   ✅   |   | 19  | CPP Module 05    |  4   |  🔒    |
-| 4   | [get_next_line](../../../42_gnl) 	  |  1   |   ✅   |   | 20  | CPP Module 06    |  4   |  🔒    |
-| 5C  | so_long								              |  2	 |   ✅   |   | 21  | CPP Module 07    |  4   |  🔒    | 
-| 6B  | pipex      							            |  2	 |   ✅   |   | 22  | CPP Module 08    |  4   |  🔒    |
-| 7   | push_swap	                          |  2	 |	 ✅   |   | 23  | NetPractice      |  4   |  🔒    |
+| 3   | [ft_printf](https://github.com/loui-gh/printf)  |  1   |   ✅   |   | 19  | CPP Module 05    |  4   |  🔒    |
+| 4   | [get_next_line](https://github.com/loui-gh/get_next_line) 	  |  1   |   ✅   |   | 20  | CPP Module 06    |  4   |  🔒    |
+| 5C  | [so_long](https://github.com/loui-gh/so_long)								              |  2	 |   ✅   |   | 21  | CPP Module 07    |  4   |  🔒    | 
+| 6B  | [pipex](https://github.com/loui-gh/pipex)      							            |  2	 |   ✅   |   | 22  | CPP Module 08    |  4   |  🔒    |
+| 7   | [push_swap](https://github.com/loui-gh/push-swap)	                          |  2	 |	 ✅   |   | 23  | NetPractice      |  4   |  🔒    |
 | 8   | exam rank 02							          |  2   |   ✅   |   | 24  | exam rank 04     |  4   |  🔒    |
-| 10  | minishell			 					            |  3	 |   ✅   |   | 25  | ft_containers    |  5   |  🔒    |
+| 10  | [minishell](https://github.com/loui-gh/42minishell)			 					            |  3	 |   ✅   |   | 25  | ft_containers    |  5   |  🔒    |
 | 11  | [Philosophers](https://github.com/loui-gh/Philosophers)                        |  3   |   ✅   |   | 26A | ft_irc           |  5   |  🔒    |
 | 12  | exam rank 03                        |  3   |   🔒   |   | 26B | webserv          |  5   |  🔒    |
 | 13A | cub3d 	 	                          |  4   |   🔒   |   | 27  | Inception        |  5   |  🔒    |
