@@ -16,7 +16,7 @@
 | 10  | [minishell](https://github.com/loui-gh/42minishell)			 					            |  3	 |   ✅   |   | 25  | ft_containers    |  5   |  🔒    |
 | 11  | [Philosophers](https://github.com/loui-gh/Philosophers)                        |  3   |   ✅   |   | 26A | ft_irc           |  5   |  🔒    |
 | 12  | exam rank 03                        |  3   |  🛠️   |   | 26B | webserv          |  5   |  🔒    |
-| 13A | cub3d 	 	                          |  4   |   🔒   |   | 27  | Inception        |  5   |  🔒    |
+| 13A | [Cub3D](https://github.com/loui-gh/cub3D) 	 	                          |  4   |   🔒   |   | 27  | Inception        |  5   |  🔒    |
 | 14  | CPP Module 00                       |  4   |   🔒   |   | 28  | exam rank 05     |  5   |  🔒    |
 | 15  | CPP Module 01                       |  4   |   🔒   |   | 29  | ft_transcendence |  6   |  🔒    |  
 | 16  | CPP Module 02                       |  4   |   🔒   |   | 30  | exam rank 06     |  6   |  🔒    |
@@ -27,9 +27,9 @@
 
 
 <!--
-- 🔭 I’m currently working on ... passing Exam03
-- 🌱 I’m currently learning ... C and Shell
-- 💬 Ask me about ... the weather
+- 🔭 I’m currently working on ... a website for a client
+- 🌱 I’m currently learning ... Python
+- 💬 Ask me about ... my travel plans
 - 📫 How to reach me: ...loflavel@students.42wolfsburg.de
-- ⚡ Fun fact: ...I speak Spanish, German, French & English
+- ⚡ Fun fact: ...I speak Spanish, German and English
 -->
