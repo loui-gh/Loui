@@ -1,6 +1,8 @@
 # Loui
 # Software developer 👋
 
+## ADB scripts
+Uninstall bloatware
 
 ## 42cursus Progress
 | No  | Project                             | Rank | Status |   | No  | Project          | Rank | Status |
