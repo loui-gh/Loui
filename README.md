@@ -2,7 +2,7 @@
 # Software developer 👋
 
 ## ADB scripts
-Uninstall bloatware
+[Uninstall bloatware on Samsung A53](https://github.com/loui-gh/How-to-uninstall-any-android-app-without-root-unlock-bootloader-external-software-)
 
 ## 42cursus Progress
 | No  | Project                             | Rank | Status |   | No  | Project          | Rank | Status |
